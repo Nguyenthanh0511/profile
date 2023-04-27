@@ -19,7 +19,7 @@ Thuộc tính này cho phép bạn định vị một phần tử bằng cách s
     width: 133vmin;
 	height: 100vmin;
     height: 100%;
-    background-image: url("./img/backgroundsocial.webp");
+    background-image: url("background-social.jpg");
 			background-repeat: no-repeat;
 			background-size: cover;
 }

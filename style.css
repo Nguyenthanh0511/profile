@@ -67,13 +67,12 @@ body {
 }
 
 .container {
-    width: 1200px;
+    width: 1500px;
     border: 1px solid var(--white);
     max-width: 100%;
     display: grid;
-    grid-template-columns: 200px auto 300px;
+    grid-template-columns: 300px 700px 360px;
     border-radius: 30px;
-    padding: 20px;
 }
 /* menu */
 .menu {
@@ -194,7 +193,7 @@ body {
 
 /* cart */
 .cart {
-    margin-left: 50px;
+    /* margin-left: px; */
     width: 190px;
 
 
@@ -225,6 +224,7 @@ footer {
     padding: 50px 0;
     font-size: 14px;
     width: 1265px;
+    height:80px
 }
 
 .container-footer {
@@ -384,6 +384,9 @@ li {
     margin-bottom: 10px;
   }
   /* img cá nhân */
+  .menu{
+    margin-left:80px;
+  }
   .menu img {
     border: 1px solid #fff; /* Hiển thị đường viền cho ảnh */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Hiển thị bóng đổ cho ảnh */
